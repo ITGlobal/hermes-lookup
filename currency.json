@@ -1,0 +1,744 @@
+{
+	"id" : "currency",
+	"type" : "simple",
+	"name" : {
+		"ru" : "Коды валют",
+		"en" : "Currency codes"
+	},
+
+	"dict" : {
+		"RUB" : {
+			"ru" : "Российский рубль",
+			"en" : "Russian Rouble"
+		},
+		"EUR" : {
+			"ru" : "Евро",
+			"en" : "Euro"
+		},
+		"USD" : {
+			"ru" : "Американский доллар",
+			"en" : "US Dollar"
+		},
+		"GBP" : {
+			"ru" : "Фунт стерлингов ",
+			"en" : "United Kingdom Pound"
+		},
+		"CHF" : {
+			"ru" : "Швейцарский франк",
+			"en" : "Swiss Franc"
+		},
+		"AUD" : {
+			"ru" : "Австралийский доллар",
+			"en" : "Australian Dollar"
+		},
+		"JPY" : {
+			"ru" : "Японская йена",
+			"en" : "Japanese Yen"
+		},
+		"ARS" : {
+			"ru" : "Аргентинское песо",
+			"en" : "Argentine Peso"
+		},
+		"AMD" : {
+			"ru" : "Армянский драм",
+			"en" : "Armenian Dram"
+		},
+		"AWG" : {
+			"ru" : "Арубанский флорин",
+			"en" : "Aruban Florin (old guilder)"
+		},
+		"ALL" : {
+			"ru" : "Албанский лек",
+			"en" : "Albanian Lek"
+		},
+		"AZN" : {
+			"ru" : "Азербайджанский манат",
+			"en" : "Azerbaijan Manat"
+		},
+		"BSD" : {
+			"ru" : "Багамский доллар",
+			"en" : "Bahamian Dollar"
+		},
+		"BHD" : {
+			"ru" : "Бахрейнский динар",
+			"en" : "Bahraini Dinar"
+		},
+		"BDT" : {
+			"ru" : "Бангладешская така",
+			"en" : "Bangladeshi Taka"
+		},
+		"BBD" : {
+			"ru" : "Барбадосский доллар",
+			"en" : "Barbados Dollar"
+		},
+		"BYR" : {
+			"ru" : "Белорусский рубль",
+			"en" : "Belarusian Ruble"
+		},
+		"BZD" : {
+			"ru" : "Белизский доллар",
+			"en" : "Belize Dollar"
+		},
+		"XOF" : {
+			"ru" : "Франк КФА ВСЕАО",
+			"en" : "Benin: CFA Franc BCEAO"
+		},
+		"BMD" : {
+			"ru" : "Брунейский доллар",
+			"en" : "Brunei Dollar"
+		},
+		"BTN" : {
+			"ru" : "Бутанский нгултрум ",
+			"en" : "Bhutan Ngultrum"
+		},
+		"INR" : {
+			"ru" : "Индийская рупия",
+			"en" : "Indian Rupee"
+		},
+		"BOB" : {
+			"ru" : "Боливийский боливиано",
+			"en" : "Bolivian Boliviano"
+		},
+		"BOV" : {
+			"ru" : "Боливийский мвдол ",
+			"en" : "Bolivian Mvdol"
+		},
+		"BAM" : {
+			"ru" : "Конвертируемая марка Боснии и Герцеговины ",
+			"en" : "Bosnia and Herzegovina Convertible Mark"
+		},
+		"BWP" : {
+			"ru" : "Ботсванская пула",
+			"en" : "Botswana Pula"
+		},
+		"NOK" : {
+			"ru" : "Норвежская крона ",
+			"en" : "Norwegian Kroner"
+		},
+		"BRL" : {
+			"ru" : "Бразильский реал",
+			"en" : "Brazilian Real"
+		},
+		"BND" : {
+			"ru" : "Брунейский доллар",
+			"en" : "Brunei Dollar"
+		},
+		"BGN" : {
+			"ru" : "Болгарский лев",
+			"en" : "Bulgarian Lev"
+		},
+		"BIF" : {
+			"ru" : "Бурундийский франк ",
+			"en" : "Burundi Franc"
+		},
+		"KHR" : {
+			"ru" : "Камбоджийский риель ",
+			"en" : "Kampuchean (Cambodian) Riel"
+		},
+		"XAF" : {
+			"ru" : "Франк КФА ВЕАС",
+			"en" : "Chad: CFA Franc BEAC"
+		},
+		"CAD" : {
+			"ru" : "Канадский доллар",
+			"en" : "Canadian Dollar"
+		},
+		"CVE" : {
+			"ru" : "Эскудо Кабо-Верде ",
+			"en" : "Cape Verde Escudo"
+		},
+		"KYD" : {
+			"ru" : "Доллар Каймановых островов ",
+			"en" : "Cayman Islands Dollar"
+		},
+		"CLF" : {
+			"ru" : "Чилийская условная единица развития  ",
+			"en" : "Chilean Unidad de Fomentos"
+		},
+		"CLP" : {
+			"ru" : "Чилийское песо",
+			"en" : "Chilean Peso"
+		},
+		"CNY" : {
+			"ru" : "Китайский юань",
+			"en" : "Chinese Yuan Renminbi"
+		},
+		"COP" : {
+			"ru" : "Колумбийское песо ",
+			"en" : "Colombian Peso"
+		},
+		"COU" : {
+			"ru" : "Единица реальной стоимости (Колумбия) ",
+			"en" : "Unidad de Valor Real"
+		},
+		"KMF" : {
+			"ru" : "Коморский франк",
+			"en" : "Comoros Franc"
+		},
+		"CDF" : {
+			"ru" : "Конголезский франк ",
+			"en" : "Congolese Franc"
+		},
+		"NZD" : {
+			"ru" : "Новозеландский доллар ",
+			"en" : "New Zealand Dollar"
+		},
+		"CRC" : {
+			"ru" : "Коста-риканский колон ",
+			"en" : "Costa Rican Colon"
+		},
+		"HRK" : {
+			"ru" : "Хорватская куна",
+			"en" : "Croatian Kuna"
+		},
+		"CUC" : {
+			"ru" : "Кубинское конвертируемое песо",
+			"en" : "Cuban convertible peso"
+		},
+		"CUP" : {
+			"ru" : "Кубинское песо",
+			"en" : "Cuban Peso"
+		},
+		"ANG" : {
+			"ru" : "Антильский гульден ",
+			"en" : "(Netherlands) Antillian Guilder"
+		},
+		"CZK" : {
+			"ru" : "Чешская крона",
+			"en" : "Czech Koruna"
+		},
+		"DKK" : {
+			"ru" : "Датская крона ",
+			"en" : "Danish Krone"
+		},
+		"DJF" : {
+			"ru" : "Франк Джибути",
+			"en" : "Djibouti Franc"
+		},
+		"DOP" : {
+			"ru" : "Доминиканское песо",
+			"en" : "Dominican Peso"
+		},
+		"EGP" : {
+			"ru" : "Египетский фунт",
+			"en" : "Egyption Pound"
+		},
+		"SVC" : {
+			"ru" : "Сальвадорский колон",
+			"en" : "El Salvador Colon"
+		},
+		"ERN" : {
+			"ru" : "Эритрейская накфа ",
+			"en" : "Eritrean Nakfa"
+		},
+		"ETB" : {
+			"ru" : "Эфиопский быр ",
+			"en" : "Ethiopian Birr"
+		},
+		"FKP" : {
+			"ru" : "Фунт Фолклендских островов",
+			"en" : "Falkland Islands Pound"
+		},
+		"FJD" : {
+			"ru" : "Доллар Фиджи",
+			"en" : "Fiji Dollar"
+		},
+		"XPF" : {
+			"ru" : "Французский тихоокеанский франк",
+			"en" : "French Pacific Francs"
+		},
+		"GMD" : {
+			"ru" : "Гамбийский даласи",
+			"en" : "Gambian Dalasi"
+		},
+		"GEL" : {
+			"ru" : "Грузинский лари",
+			"en" : "Georgian Lari"
+		},
+		"GHS" : {
+			"ru" : "Ганский седи",
+			"en" : "Ghanaian Cedi"
+		},
+		"GIP" : {
+			"ru" : "Гибралтарский фунт ",
+			"en" : "Gibraltar Pound"
+		},
+		"GTQ" : {
+			"ru" : "Гватемальский кетсаль ",
+			"en" : "Guatemalan Quetzal"
+		},
+		"DZD" : {
+			"ru" : "Алжирский динар",
+			"en" : "Algerian Dinar"
+		},
+		"GNF" : {
+			"ru" : "Гвинейский франк",
+			"en" : "Guiniea Franc"
+		},
+		"GYD" : {
+			"ru" : "Гайанский доллар ",
+			"en" : "Guyanan Dollar"
+		},
+		"HTG" : {
+			"ru" : "Гаитянский гурд",
+			"en" : "Haitian Gourdes"
+		},
+		"HNL" : {
+			"ru" : "Гондурасская лемпира ",
+			"en" : "Honduran Lempira"
+		},
+		"HKD" : {
+			"ru" : "Гонконгский доллар ",
+			"en" : "Hong Kong Dollar"
+		},
+		"HUF" : {
+			"ru" : "Венгерский форинт",
+			"en" : "Hungarian Forint"
+		},
+		"ISK" : {
+			"ru" : "Исландская крона ",
+			"en" : "Iceland Krona"
+		},
+		"IDR" : {
+			"ru" : "Индонезийская рупия ",
+			"en" : "Indonesian Rupiah"
+		},
+		"XDR" : {
+			"ru" : "Специальные права заимствования ",
+			"en" : "Special Drawing Rights "
+		},
+		"IRR" : {
+			"ru" : "Иранский риал ",
+			"en" : "Iranian Rial"
+		},
+		"IQD" : {
+			"ru" : "Иракский динар ",
+			"en" : "Iraqi Dinar"
+		},
+		"ILS" : {
+			"ru" : "Израильский шекель",
+			"en" : "Israeili New Shekel"
+		},
+		"JMD" : {
+			"ru" : "Ямайский доллар ",
+			"en" : "Jamaican Dollar"
+		},
+		"AOA" : {
+			"ru" : "Ангольская кванза ",
+			"en" : "Angolan Kwanza"
+		},
+		"JOD" : {
+			"ru" : "Иорданский динар ",
+			"en" : "Jordanian Dinar"
+		},
+		"KZT" : {
+			"ru" : "Казахский тенге",
+			"en" : "Kazakhstan Tenge"
+		},
+		"KES" : {
+			"ru" : "Кенийский шиллинг ",
+			"en" : "Kenyan Schilling"
+		},
+		"KPW" : {
+			"ru" : "Северокорейская вона",
+			"en" : "North Korean Won"
+		},
+		"KRW" : {
+			"ru" : "Южнокорейская вона ",
+			"en" : "Korean Won"
+		},
+		"KWD" : {
+			"ru" : "Кувейтский динар ",
+			"en" : "Kuwaiti Dinar"
+		},
+		"KGS" : {
+			"ru" : "Киргизский сом ",
+			"en" : "Kyrgyzstanian Som"
+		},
+		"LAK" : {
+			"ru" : "Лаосский кип ",
+			"en" : "Lao Kip"
+		},
+		"LVL" : {
+			"ru" : "Латвийский лат ",
+			"en" : "Latvian Lats"
+		},
+		"LBP" : {
+			"ru" : "Ливанский фунт",
+			"en" : "Lebanese Pound"
+		},
+		"LSL" : {
+			"ru" : "Лоти Лесото ",
+			"en" : "Lesotho Loti"
+		},
+		"ZAR" : {
+			"ru" : "Южноафриканский ранд ",
+			"en" : "South African Rand"
+		},
+		"LRD" : {
+			"ru" : "Либерийский доллар ",
+			"en" : "Liberian Dollar"
+		},
+		"LYD" : {
+			"ru" : "Ливийский динар ",
+			"en" : "Libyan Dinar"
+		},
+		"XCD" : {
+			"ru" : "Восточно-карибский доллар ",
+			"en" : "East Caribbean Dollar"
+		},
+		"LTL" : {
+			"ru" : "Литовский лит ",
+			"en" : "Lithuanian Litas"
+		},
+		"MOP" : {
+			"ru" : "Патака Макао ",
+			"en" : "Macau Pataca"
+		},
+		"MKD" : {
+			"ru" : "Македонский динар ",
+			"en" : "Macedonian Denar"
+		},
+		"MGA" : {
+			"ru" : "Малагасийский ариари ",
+			"en" : "Malagasy ariary"
+		},
+		"MWK" : {
+			"ru" : "Малавийская квача ",
+			"en" : "Malawi Kwacha"
+		},
+		"MYR" : {
+			"ru" : "Малазийский ринггит ",
+			"en" : "Malaysian Ringgit"
+		},
+		"MVR" : {
+			"ru" : "Мальдивская руфия ",
+			"en" : "Maldive Rufiyaa"
+		},
+		"MRO" : {
+			"ru" : "Мавританская угия",
+			"en" : "Mauritanian Ouguiya"
+		},
+		"MUR" : {
+			"ru" : "Маврикийская рупия ",
+			"en" : "Mauritius Rupee"
+		},
+		"XUA" : {
+			"ru" : "Единица счета Африканского банка развития ",
+			"en" : "Unit of Account of the African Development Bank"
+		},
+		"MXN" : {
+			"ru" : "Мексиканское песо",
+			"en" : "Mexican Peso"
+		},
+		"MXV" : {
+			"ru" : "Мексиканская инвестиционная единица (Унидад де Инверсия) ",
+			"en" : "Mexican Unidad de Inversion"
+		},
+		"MDL" : {
+			"ru" : "Молдавский лей ",
+			"en" : "Moldovan Leu"
+		},
+		"MNT" : {
+			"ru" : "Монгольский тугрик ",
+			"en" : "Mongolian Tugrik"
+		},
+		"MAD" : {
+			"ru" : "Марокканский дирхам ",
+			"en" : "Moroccan Dirham"
+		},
+		"MZN" : {
+			"ru" : "Мозамбикский метикал ",
+			"en" : "Mozambique Metical"
+		},
+		"MMK" : {
+			"ru" : "Кьят Мьянмы ",
+			"en" : "Myanmar Kyat"
+		},
+		"NAD" : {
+			"ru" : "Доллар Намибии ",
+			"en" : "Namibian Dollar"
+		},
+		"NPR" : {
+			"ru" : "Непальская рупия ",
+			"en" : "Nepalese Rupee"
+		},
+		"NIO" : {
+			"ru" : "Никарагуанская кордоба ",
+			"en" : "Nicaraguan Cordoba Oro"
+		},
+		"NGN" : {
+			"ru" : "Нигерийская найра ",
+			"en" : "Nigerian Naira"
+		},
+		"OMR" : {
+			"ru" : "Оманский риал ",
+			"en" : "Omani Rial"
+		},
+		"PKR" : {
+			"ru" : "Пакистанская рупия ",
+			"en" : "Pakistan Rupee"
+		},
+		"PAB" : {
+			"ru" : "Панамская бальбоа ",
+			"en" : "Panamanian Balboa"
+		},
+		"PGK" : {
+			"ru" : "Кина Папуа-Новой Гвинеи ",
+			"en" : "Papua New Guinea Kina"
+		},
+		"PYG" : {
+			"ru" : "Парагвайский гуарани ",
+			"en" : "Paraguay Guarani"
+		},
+		"PEN" : {
+			"ru" : "Перуанский соль ",
+			"en" : "Peruvian Neuevo Sol"
+		},
+		"PHP" : {
+			"ru" : "Филиппинское песо",
+			"en" : "Philippine Peso"
+		},
+		"PLN" : {
+			"ru" : "Польский злотый ",
+			"en" : "Polish Zloty"
+		},
+		"QAR" : {
+			"ru" : "Катарский риал ",
+			"en" : "Qatari Rial"
+		},
+		"RON" : {
+			"ru" : "Новый румынский лей ",
+			"en" : "Romanian Leu"
+		},
+		"AFN" : {
+			"ru" : "Афганский афгани ",
+			"en" : "Afghanistan Afghani"
+		},
+		"RWF" : {
+			"ru" : "Руандский франк ",
+			"en" : "Rwandan Franc"
+		},
+		"SHP" : {
+			"ru" : "Фунт о-ва Святой Елены ",
+			"en" : "St. Helena Pound"
+		},
+		"WST" : {
+			"ru" : "Самоанская тала ",
+			"en" : "Samoan Tala"
+		},
+		"STD" : {
+			"ru" : "Добра Сан Томе и Принсипи ",
+			"en" : "Sao Tome and Principe Dobra"
+		},
+		"SAR" : {
+			"ru" : "Саудовский риял ",
+			"en" : "Saudi Riyal"
+		},
+		"RSD" : {
+			"ru" : "Сербский динар ",
+			"en" : "Serbian Dinar"
+		},
+		"SCR" : {
+			"ru" : "Сейшельская рупия ",
+			"en" : "Seychelles Rupee"
+		},
+		"SLL" : {
+			"ru" : "Сьерра-леонский леоне ",
+			"en" : "Sierra Leone Leone"
+		},
+		"SGD" : {
+			"ru" : "Сингапурский доллар ",
+			"en" : "Singapore Dollar"
+		},
+		"XSU" : {
+			"ru" : "Сукре (Единица единой системы региональных взаиморасчетов)",
+			"en" : "Sistema Único de Compensación Regional, SUCRE"
+		},
+		"SBD" : {
+			"ru" : "Доллар Соломоновых островов",
+			"en" : "Solomon Islands Dollar"
+		},
+		"SOS" : {
+			"ru" : "Сомалийский шиллинг ",
+			"en" : "Somali Schilling"
+		},
+		"SSP" : {
+			"ru" : "Южносуданский фунт ",
+			"en" : "South Sudan Pound"
+		},
+		"LKR" : {
+			"ru" : "Шри-Ланкийская рупия ",
+			"en" : "Sri Lanka Rupee"
+		},
+		"SDG" : {
+			"ru" : "Сингапурский доллар ",
+			"en" : "Singapore Dollar"
+		},
+		"SRD" : {
+			"ru" : "Суринамский доллар ",
+			"en" : "Suriname Dollar"
+		},
+		"SZL" : {
+			"ru" : "Лилангени Свазиленда",
+			"en" : "Swaziland Lilangeni"
+		},
+		"SEK" : {
+			"ru" : "Шведская крона ",
+			"en" : "Swedish Krona"
+		},
+		"CHE" : {
+			"ru" : "WIR-евро ",
+			"en" : "WIR-euro"
+		},
+		"CHW" : {
+			"ru" : "WIR-франк ",
+			"en" : "WIR-franc"
+		},
+		"SYP" : {
+			"ru" : "Сирийский фунт",
+			"en" : "Syrian Pound"
+		},
+		"TWD" : {
+			"ru" : "Новый тайваньский доллар",
+			"en" : "Taiwan Dollar"
+		},
+		"TJS" : {
+			"ru" : "Сомони Таджикистана ",
+			"en" : "Tajikistani Somoni"
+		},
+		"TZS" : {
+			"ru" : "Танзанийский шиллинг",
+			"en" : "Tanzanian Schilling"
+		},
+		"THB" : {
+			"ru" : "Тайский бат ",
+			"en" : "Thai Baht"
+		},
+		"TOP" : {
+			"ru" : "Паанга королевства Тонга ",
+			"en" : "Tongan Pa'anga"
+		},
+		"TTD" : {
+			"ru" : "Доллар Тринидада и Тобаго",
+			"en" : "Trinidad and Tobago Dollar"
+		},
+		"TND" : {
+			"ru" : "Тунисский динар",
+			"en" : "Tunisian Dinar"
+		},
+		"TRY" : {
+			"ru" : "Турецкая лира",
+			"en" : "Turkish Lira"
+		},
+		"TMT" : {
+			"ru" : "Туркменский манат ",
+			"en" : "Turkmenistan Manat"
+		},
+		"UGX" : {
+			"ru" : "Угандийский шиллинг",
+			"en" : "Uganda Schilling"
+		},
+		"UAH" : {
+			"ru" : "Украинская гривна ",
+			"en" : "Ukraine Hryvnia"
+		},
+		"AED" : {
+			"ru" : "Дирхам ОАЭ",
+			"en" : "United Arab Emirates Dirham"
+		},
+		"USN" : {
+			"ru" : "Доллар США «следующего дня» ",
+			"en" : "United States Dollar – next day"
+		},
+		"USS" : {
+			"ru" : "Доллар США «того же дня»",
+			"en" : "United States Dollar – same day"
+		},
+		"UYI" : {
+			"ru" : "Уругвайское песо в индексированных единицах",
+			"en" : "Uruguay Peso en Unidades Indexadas"
+		},
+		"UYU" : {
+			"ru" : "Уругвайское песо",
+			"en" : "Uruguayan Peso"
+		},
+		"UZS" : {
+			"ru" : "Узбекский сум",
+			"en" : "Uzbekistan Som"
+		},
+		"VUV" : {
+			"ru" : "Вануатский вату ",
+			"en" : "Vanuatu Vatu"
+		},
+		"VEF" : {
+			"ru" : "Венесуэльский боливар ",
+			"en" : "Venezuelan Bolivar Fuerte"
+		},
+		"VND" : {
+			"ru" : "Вьетнамский донг ",
+			"en" : "Vietnamese Dong"
+		},
+		"YER" : {
+			"ru" : "Йеменский риал",
+			"en" : "Yemeni Rial"
+		},
+		"ZMW" : {
+			"ru" : "Замбийская квача",
+			"en" : "Zambian Kwacha"
+		},
+		"ZWL" : {
+			"ru" : "Доллар Зимбабве",
+			"en" : "Zimbabwe Dollar"
+		},
+		"XBA" : {
+			"ru" : "Европейская составная единица EURCO",
+			"en" : "European Composite Unit"
+		},
+		"XBB" : {
+			"ru" : "Европейская валютная единица EMU-6",
+			"en" : "European Monetary Unit-6"
+		},
+		"XBC" : {
+			"ru" : "Европейская расчётная единица EUA-9 ",
+			"en" : "European Unit of Account-9"
+		},
+		"XBD" : {
+			"ru" : "Европейская расчётная единица EUA-17",
+			"en" : "European Unit of Account-17"
+		},
+		"XFU" : {
+			"ru" : "Франк ЮИК (UIC)",
+			"en" : "UIC-Franc"
+		},
+		"XTS" : {
+			"ru" : "Код, зарезервированный для тестовых целей",
+			"en" : "Monetary experimentation code"
+		},
+		"XXX" : {
+			"ru" : "Код невалютных транзакций",
+			"en" : "No-currency transactions "
+		},
+		"XAU" : {
+			"ru" : "Одна тройская унция золото",
+			"en" : "One troy ounce of gold"
+		},
+		"XPD" : {
+			"ru" : "Палладий",
+			"en" : "Palladium Ounces"
+		},
+		"XPT" : {
+			"ru" : "Платина",
+			"en" : "Platinum ounces"
+		},
+		"XAG" : {
+			"ru" : "Унция серебра",
+			"en" : "Silver"
+		},
+		"BYN" : {
+			"ru" : "Белорусский рубль",
+			"en" : "Belarusian Ruble"
+		}
+	}
+}
+}
