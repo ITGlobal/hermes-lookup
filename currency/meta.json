@@ -3,5 +3,8 @@
         "ru": "Коды валют",
         "en": "Currency codes"
     },
-    "type": "dict"
+    "type": "dict",
+    "fields": {
+        "name": "LocalizedText"
+    }
 }
