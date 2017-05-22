@@ -1,0 +1,10 @@
+{
+    "name": {
+        "ru": "Бизнес-центры",
+        "en": "Business centers"
+    },
+    "type": "dict",
+    "fields": {
+        "name": "LocalizedText"
+    }
+}
