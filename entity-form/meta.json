@@ -1,0 +1,10 @@
+{
+    "name": {
+        "ru": "Формы юридического лица",
+        "en": "Entity forms"
+    },
+    "type": "dict",
+    "fields": {
+        "name": "LocalizedText"
+    }
+}
