@@ -1,0 +1,9 @@
+{
+    "2017-09-15" : {
+    	"workday" : ["RUMO", "USNY"],
+		"holiday" : ["GBLO"]
+    },
+	"2017-10-03" : {    	
+		"holiday" : ["GBLO", "USNY"]
+    },
+}

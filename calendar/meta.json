@@ -1,0 +1,15 @@
+{
+	"name" : {
+		"ru" : "Календарь",
+		"en" : "Calendar"
+	},
+	"description" : {
+		"ru" : "Содержит информацию о не рабочих днях для различных деловых центров",
+		"en" : "Contains information on non working days in different business centers",
+	},
+	"type" : "calendar",
+	"fields" : {		
+		"workday" : "array",
+		"holiday" : "array"
+	}
+}

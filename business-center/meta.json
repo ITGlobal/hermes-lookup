@@ -3,6 +3,9 @@
         "ru": "Бизнес-центры",
         "en": "Business centers"
     },
+	"description":{
+		"ru": "Географические локации, относительно которых производятся те или иные расчёты",        
+	},
     "type": "dict",
     "fields": {
         "name": "LocalizedText"

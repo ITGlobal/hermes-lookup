@@ -3,6 +3,10 @@
         "ru": "Коды валют",
         "en": "Currency codes"
     },
+	"description" : {
+		"ru" : "Трёхбуквенные коды валют стандарта ISO 4217",
+		"en" : "Currencies codes of standard ISO 4217",
+	},
     "type": "dict",
     "fields": {
         "name": "LocalizedText"

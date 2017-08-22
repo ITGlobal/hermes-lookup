@@ -3,6 +3,10 @@
         "ru": "Страны",
         "en": "Countries"
     },
+	"description" : {
+		"ru" : "Двубуквенные коды стран стандарта ISO 3166-1",
+		"en" : "Contries codes of ISO 3166-1 standard",
+	},
     "type": "dict",
     "fields": {
         "name": "LocalizedText"

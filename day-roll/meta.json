@@ -3,6 +3,10 @@
         "ru": "Методы роллирования рабочего дня",
         "en": "Business day roll methods"
     },
+	"description" : {
+		"ru" : "Методы роллирования дат, попадающих на не рабочий день, до того или иного рабочего дня.",
+		"en" : "Methods of non working days rolling toward a working day",
+	},	
     "type": "dict",
     "fields": {
         "name": "LocalizedText"

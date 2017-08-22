@@ -3,6 +3,10 @@
         "ru": "Методы вычисления количества дней",
         "en": "Day count fractions"
     },
+	"description" : {
+		"ru" : "Метод вычисления количества рабочих дней в периоде времени",
+		"en" : "Methods for calculating a number of working days in a period of time",
+	},
     "type": "dict",
     "fields": {
         "name": "LocalizedText"
