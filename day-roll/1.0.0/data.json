@@ -1,0 +1,51 @@
+{
+	"FOLLOWING": {
+		"name": {
+			"ru": "Не рабочий день переносится на ближайший рабочий день, следующий за ним.",
+			"en": "The non-business date will be adjusted to the first following day that is a business day"
+		}
+	},
+	"FRN": {
+		"name": {
+			"ru": "Конвенция плавающей ставки",
+			"en": "Per 2000 ISDA Definitions, Section 4.11. FRN Convention; Eurodollar Convention."
+		}
+	},
+	"MODFOLLOWING": {
+		"name": {
+			"ru": "Дата, выпадающая на нерабочий день переносится на следующий рабочий день, если он находится в том же месяце, что и корректируемая дата. Иначе, если следующий рабочий день выпадает на следующий месяц, то дата корректируется до ближайшего предыдущего рабочего дня.",
+			"en": "The non-business date will be adjusted to the first following day that is a business day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a business day."
+		}
+	},
+	"PRECEDING": {
+		"name": {
+			"ru": "Ближайший предшествующий рабочий день.",
+			"en": "The non-business day will be adjusted to the first preceding day that is a business day."
+		}
+	},
+	"MODPRECEDING": {
+		"name": {
+			"ru": "Нерабочий день корректируется до ближайшего предшествующего рабочего дня, если он попадает в тот же месяц, что и корректируемая дата. Если же такой день находится в предыдущем месяце, то берётся ближайший следующий рабочий день.",
+			"en": "The non-business date will be adjusted to the first preceding day that is a business day unless that day falls in the previous calendar month, in which case that date will be the first following day that us a business day."
+		}
+	},
+	"NEAREST": {
+		"name": {
+			"ru": "Нерабочий день корректируется до ближайшего рабочего дня, вне зависимости от того, предшествует ли он или следует.",
+			"en": "The non-business date will be adjusted to the nearest day that is a business day - i.e. if the non-business day falls on any day other than a Sunday or a Monday, it will be the first preceding day that is a business day, and will be the first following business day if it falls on a Sunday or a Monday."
+		}
+	},
+	"NONE": {
+		"name": {
+			"ru": "Дата не корректируется, если выпадает на нерабочий день.",
+			"en": "The date will not be adjusted if it falls on a day that is not a business day."
+		}
+	},
+	"NotApplicable": {
+		"name": {
+			"ru": "Корректировка дат не применяется в данном случае.",
+			"en": "The date adjustments conventions are defined elsewhere, so it is not required to specify them here."
+		}
+	}
+
+}

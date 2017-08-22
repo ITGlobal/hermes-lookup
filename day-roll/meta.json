@@ -1,0 +1,10 @@
+{
+    "name": {
+        "ru": "Методы роллирования рабочего дня",
+        "en": "Business day roll methods"
+    },
+    "type": "dict",
+    "fields": {
+        "name": "LocalizedText"
+    }
+}
