@@ -58,5 +58,5 @@
             "ru": "Количество рабочих дней в процентном периоде, разделенное на 252.",
             "en": "The number of business days in the calculation period divided by 252."
         }
-    },
+    }
 }
