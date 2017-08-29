@@ -154,5 +154,5 @@
 	"VNHA" : {"name" : {"ru" : "Ханой, Вьетнам","en" : "Hanoi, Vietnam."}},
 	"VNHC" : {"name" : {"ru" : "Хошимин (бывший Сайгон), Вьетнам","en" : "Ho Chi Minh (formerly Saigon), Vietnam"}},
 	"ZAJO" : {"name" : {"ru" : "Йоханнесбург","en" : "Johannesburg."}},
-	"ZMLU" : {"name" : {"ru" : "Лусака","en" : "Lusaka."}},
+	"ZMLU" : {"name" : {"ru" : "Лусака","en" : "Lusaka."}}
 }
